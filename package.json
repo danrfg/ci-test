@@ -1,0 +1,16 @@
+{
+  "name": "rfg-ci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "algoliasearch": "^3.25.1",
+    "express": "^4.16.3",
+    "npm": "^5.7.1"
+  }
+}
